@@ -9,7 +9,7 @@
   </p>
 </p>
 
-[![Site preview](interfaces/Game_Building.png)]
-[![Site preview](interfaces/Game_Menu.png)]
-[![Site preview](interfaces/Game_Starting.png)]
-[![Site preview](interfaces/Player_Playing_Through_the_Level.png)]
+[![Site preview](interface/Game_Building.png)]
+[![Site preview](interface/Game_Menu.png)]
+[![Site preview](interface/Game_Starting.png)]
+[![Site preview](interface/Player_Playing_Through_the_Level.png)]
