@@ -12,4 +12,4 @@
 ![Site preview](Interface/Game_Building.png)
 ![Site preview](Interface/Game_Menu.png)
 ![Site preview](Interface/Game_Starting.png)
-![Site preview](Interface/Player_Playing_Through_the_Level.png)]
+![Site preview](Interface/Player_Playing_Through_the_Level.png)
